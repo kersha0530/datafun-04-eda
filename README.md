@@ -2,7 +2,7 @@
 
 ## 📌 Pro Analytics - Project Overview
 ## Author: Kersha Broussard (@kersha0530)
-## Repository: GitHub - Pro Analytics
+## Repository: GitHub - datafun-04-eda
 ## Date: January 2025
 
 ## 📖 About This Project
